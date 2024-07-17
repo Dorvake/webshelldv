@@ -28,14 +28,14 @@
   "colors": {
     "background": "#0F0623",
     "foreground": "#ECDDF8",
-    "banner": "#51ff6b",
+    "banner": "#51FF6B",
     "border": {
       "visible": true,
-      "color": "#b2adff"
+      "color": "#B2ADFF"
     },
     "prompt": {
       "default": "#A6A5A7",
-      "user": "#c66bfe",
+      "user": "#C66BFE",
       "host": "#70FDFF",
       "input": "#FF7685"
     },
