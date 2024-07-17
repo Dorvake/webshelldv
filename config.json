@@ -1,46 +1,41 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+" ██████╗   █████╗  ██████╗   █████╗  ██╗      ██╗      ███████╗ ██╗      ██████╗  ███████╗ ██╗   ██╗",
+" ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║      ██║      ██╔════╝ ██║      ██╔══██╗ ██╔════╝ ██║   ██║",
+" ██████╔╝ ███████║ ██████╔╝ ███████║ ██║      ██║      █████╗   ██║      ██║  ██║ █████╗   ██║   ██║",
+" ██╔═══╝  ██╔══██║ ██╔══██╗ ██╔══██║ ██║      ██║      ██╔══╝   ██║      ██║  ██║ ██╔══╝   ╚██╗ ██╔╝",
+" ██║      ██║  ██║ ██║  ██║ ██║  ██║ ███████╗ ███████╗ ███████╗ ███████╗ ██████╔╝ ███████╗  ╚████╔╝",
+" ╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝ ╚══════╝ ╚═════╝  ╚══════╝   ╚═══╝"
   ],
-  "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "title": "ParallelDev",
+  "username": "guest",
+  "hostname": "paralleldv.org",
+  "password": "2763",
+  "repoLink": "hhttps://github.com/Dorvake/webshelldv",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "dorvake@paralleldv.org",
+    "github": "Dorvake"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hello! welcome to ParallelDev",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
-    ],
-    [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Dorvake's Alloys",
+      "Fabric MC Mod to add new alloys",
+      "https://github.com/Dorvake/dorvakes-alloys-initial"
     ]
+    
   ],
   "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+    "background": "#0F0623",
+    "foreground": "#ECDDF8",
+    "banner": "#51ff6b",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "#b2adff"
     },
     "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
+      "default": "#A6A5A7",
+      "user": "#c66bfe",
       "host": "#70FDFF",
       "input": "#FF7685"
     },
